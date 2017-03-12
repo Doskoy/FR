@@ -11,4 +11,4 @@ This Repository have 5 parts wich are 5 exercises about the same concept but usi
 
 4.Modify the client and server for make them use UDP datagrams.
 
-5. Creation and definition of a application protocol using the client/server paradigm. I did the simulation of an activity monitor where you put manually the information of the monitor and the server give you a result of that information.
+5. Creation and definition of a application protocol using the client/server paradigm. I did the simulation of an activity monitor where you put manually the information of the monitor and the server give you a result.
